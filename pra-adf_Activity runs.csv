@@ -1,0 +1,8 @@
+"Activity name","Activity status","Error","Activity type","Run start","Duration","Integration runtime","User properties","Activity run ID","Log"
+"firstcopyactivity","Failed","{
+    ""errorCode"": ""2200"",
+    ""message"": ""ErrorCode=AdlsGen2InvalidFolderPath,'Type=Microsoft.DataTransfer.Common.Shared.HybridDeliveryException,Message=The folder path is not specified. Cannot locate the file 'loandata.parquet' under the ADLS Gen2 account directly. Please specify the folder path instead.,Source=Microsoft.DataTransfer.ClientLibrary,'"",
+    ""failureType"": ""UserError"",
+    ""target"": ""firstcopyactivity"",
+    ""details"": []
+}","Copy","9/11/2026, 11:40:53 PM","16s","AutoResolveIntegrationRuntime (East US)","{}","0feace3f-1bc8-4b28-b663-d2fd17bdfe6c",""
